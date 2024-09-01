@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\PROJECT\\2024\\CarSell\\CarSell\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:1:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\carsell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:1:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:carsell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\appsettings.json.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:appsettings.json.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\datacontext\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:datacontext\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\migrations\\cardbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:migrations\\cardbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\migrations\\20240229085503_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:migrations\\20240229085503_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PROJECT\\CarSell\\CarSell\\Migrations\\20240227041452_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\carsell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:2:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:carsell.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|f:\\project\\2024\\carsell\\carsell\\migrations\\20240724023859_aji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E11521C-8867-427E-8754-7685BBF89F10}|CarSell.csproj|solutionrelative:migrations\\20240724023859_aji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-01T16:17:47.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T16:17:11.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json.example.json",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\appsettings.json.example.json",
+              "RelativeDocumentMoniker": "appsettings.json.example.json",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\appsettings.json.example.json",
+              "RelativeToolTip": "appsettings.json.example.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T16:13:04.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T15:31:07.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarController.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Controllers\\CarController.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAcwNAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\DataContext\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "DataContext\\CarDbContext.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\DataContext\\CarDbContext.cs",
+              "RelativeToolTip": "DataContext\\CarDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:10.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Services\\ITokenService.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Services\\ITokenService.cs",
+              "RelativeToolTip": "Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarSell.csproj",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\CarSell.csproj",
+              "RelativeDocumentMoniker": "CarSell.csproj",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\CarSell.csproj",
+              "RelativeToolTip": "CarSell.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T15:31:07.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T15:31:07.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240229085503_first.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Migrations\\20240229085503_first.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240229085503_first.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Migrations\\20240229085503_first.cs",
+              "RelativeToolTip": "Migrations\\20240229085503_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Migrations\\CarDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\CarDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Migrations\\CarDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\CarDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAqwIEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240724023859_aji.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Migrations\\20240724023859_aji.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240724023859_aji.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Migrations\\20240724023859_aji.cs",
+              "RelativeToolTip": "Migrations\\20240724023859_aji.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:07.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240227041452_second.cs",
+              "DocumentMoniker": "D:\\PROJECT\\CarSell\\CarSell\\Migrations\\20240227041452_second.cs",
+              "ToolTip": "D:\\PROJECT\\CarSell\\CarSell\\Migrations\\20240227041452_second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:14:53.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CarSell.csproj",
+              "DocumentMoniker": "F:\\PROJECT\\2024\\CarSell\\CarSell\\CarSell.csproj",
+              "RelativeDocumentMoniker": "CarSell.csproj",
+              "ToolTip": "F:\\PROJECT\\2024\\CarSell\\CarSell\\CarSell.csproj",
+              "RelativeToolTip": "CarSell.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T15:31:10.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
